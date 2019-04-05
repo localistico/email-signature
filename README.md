@@ -4,4 +4,4 @@ Email HTML Signature Generator
 
 ## Template
 
-Visit http://localistico.github.io/email-signature
+Visit http://localistico.github.io/email-signature/template.html
