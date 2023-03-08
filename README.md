@@ -4,7 +4,7 @@ Email HTML Signature Generator
 
 ## How to
 
-1. Visit http://localistico.github.io/email-signature/index.html
+1. Visit http://localistico.github.io/email-signature
 2. Command + A (Select HTML) and Command + C (Copy HTML)
 3. Open Gmail
 4. In the top right, click Settings
